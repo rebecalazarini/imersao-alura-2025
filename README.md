@@ -7,6 +7,7 @@
 - Clone o repositório
 - Abra com VsCode
 - Abra o terminal (Ctrl + ')
+- Selecione cmd
 - Execute
 ```bash
 pip install -r requirements.txt
