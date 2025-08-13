@@ -10,6 +10,8 @@
 - Selecione cmd
 - Execute
 ```bash
+pip install streamlit 
+pip install pandas
 pip install -r requirements.txt
 streamlit run app.py
 ```
